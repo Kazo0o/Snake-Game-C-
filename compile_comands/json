@@ -1,0 +1,7 @@
+[
+    {
+        "directory":" ",
+    "command":"/msys64/mingw64/bin/g++ -I/include -g -std=c++17 -o bin/snake-game-c",
+    "file":"main.cpp"
+    }
+]

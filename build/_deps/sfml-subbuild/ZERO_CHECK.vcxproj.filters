@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Tlhalefo\Documents\GitHub\Kazo0o\Snake-Game-C-\build\_deps\sfml-subbuild\CMakeFiles\d92a91374bd6648390b3a774842d6179\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{609C37D1-104D-39B9-8A8A-19B0EE8E84D0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Tlhalefo/Documents/GitHub/Kazo0o/Snake-Game-C-/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate"
+		},
+		{
+			"file" : "C:/Users/Tlhalefo/Documents/GitHub/Kazo0o/Snake-Game-C-/build/_deps/sfml-subbuild/CMakeFiles/d92a91374bd6648390b3a774842d6179/sfml-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Tlhalefo/Documents/GitHub/Kazo0o/Snake-Game-C-/build/_deps/sfml-subbuild/CMakeFiles/3474a88a9fb88061849cd333d5eece3c/sfml-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Tlhalefo/Documents/GitHub/Kazo0o/Snake-Game-C-/build/_deps/sfml-subbuild/CMakeFiles/55bfb6d6df7d12bb2b86eda9ca7cc04d/sfml-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Tlhalefo/Documents/GitHub/Kazo0o/Snake-Game-C-/build/_deps/sfml-subbuild/CMakeFiles/55bfb6d6df7d12bb2b86eda9ca7cc04d/sfml-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Tlhalefo/Documents/GitHub/Kazo0o/Snake-Game-C-/build/_deps/sfml-subbuild/CMakeFiles/55bfb6d6df7d12bb2b86eda9ca7cc04d/sfml-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Tlhalefo/Documents/GitHub/Kazo0o/Snake-Game-C-/build/_deps/sfml-subbuild/CMakeFiles/55bfb6d6df7d12bb2b86eda9ca7cc04d/sfml-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Tlhalefo/Documents/GitHub/Kazo0o/Snake-Game-C-/build/_deps/sfml-subbuild/CMakeFiles/55bfb6d6df7d12bb2b86eda9ca7cc04d/sfml-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Tlhalefo/Documents/GitHub/Kazo0o/Snake-Game-C-/build/_deps/sfml-subbuild/CMakeFiles/55bfb6d6df7d12bb2b86eda9ca7cc04d/sfml-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Tlhalefo/Documents/GitHub/Kazo0o/Snake-Game-C-/build/_deps/sfml-subbuild/CMakeFiles/55bfb6d6df7d12bb2b86eda9ca7cc04d/sfml-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Tlhalefo/Documents/GitHub/Kazo0o/Snake-Game-C-/build/_deps/sfml-subbuild/CMakeFiles/55bfb6d6df7d12bb2b86eda9ca7cc04d/sfml-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sfml-populate"
+		],
+		"name" : "sfml-populate"
+	}
+}

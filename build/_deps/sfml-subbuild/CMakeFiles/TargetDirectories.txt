@@ -1,0 +1,3 @@
+C:/Users/Tlhalefo/Documents/GitHub/Kazo0o/Snake-Game-C-/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate.dir
+C:/Users/Tlhalefo/Documents/GitHub/Kazo0o/Snake-Game-C-/build/_deps/sfml-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Users/Tlhalefo/Documents/GitHub/Kazo0o/Snake-Game-C-/build/_deps/sfml-subbuild/CMakeFiles/ZERO_CHECK.dir

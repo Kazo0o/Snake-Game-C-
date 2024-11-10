@@ -1,0 +1,10 @@
+^C:\USERS\TLHALEFO\DOCUMENTS\GITHUB\KAZO0O\SNAKE-GAME-C-\BUILD\_DEPS\SFML-SUBBUILD\CMAKEFILES\D92A91374BD6648390B3A774842D6179\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Tlhalefo/Documents/GitHub/Kazo0o/Snake-Game-C-/build/_deps/sfml-subbuild -BC:/Users/Tlhalefo/Documents/GitHub/Kazo0o/Snake-Game-C-/build/_deps/sfml-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Tlhalefo/Documents/GitHub/Kazo0o/Snake-Game-C-/build/_deps/sfml-subbuild/sfml-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

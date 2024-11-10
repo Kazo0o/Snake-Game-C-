@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1673300374 source:c:\users\lerato thibile\documents\coding\snake_game\main.cpp
-	<iostream>
-	<conio.h>
-	<windows.h>
-

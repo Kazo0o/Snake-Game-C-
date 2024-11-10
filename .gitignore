@@ -1,0 +1,4 @@
+.git/ 
+compile_commands/
+.vscode/
+.clangd

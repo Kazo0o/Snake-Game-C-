@@ -1,0 +1,12 @@
+CompileFlags:
+  Add:
+    - -ISFML
+    - -Iinclude
+    - -Llib
+    - -lmingw32-
+    - -lsfml-graphics-s
+    - -lsfml-window-s
+    - -lsfml-system-s
+    - -lopengl32
+    - -lwinmm
+    - -lgdi32
